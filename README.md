@@ -1,6 +1,6 @@
 # Hermes AI Orchestration
 
-![최종 목표 시스템. Mac Desktop과 Telegram에서 접수한 요청을 Hermes가 조율하고 Claude Code와 Codex CLI가 분석·작성·검증합니다. 결과와 작업 이력은 공동 작업·지식 저장소에 연결됩니다.](assets/hermes-overview.jpg)
+![최종 목표 시스템. Mac Desktop과 Telegram에서 접수한 요청을 Hermes가 조율하고 Claude Code와 Codex CLI가 분석·작성·검증합니다. 결과와 작업 이력은 공동 작업·지식 저장소에 연결됩니다.](assets/hermes-system-diagram.jpg)
 
 **프로젝트 목표** · Desktop이나 Telegram에서 한 번 요청하면, Hermes가 승인과 예산을 관리하고 Claude Code와 Codex CLI가 분석·작성·독립 검증을 나누어 수행합니다. 사용자는 결과물과 검증 의견을 함께 확인할 수 있습니다.
 
