@@ -1,0 +1,30 @@
+# 환경과 자격증명
+.env
+.env.*
+*.local
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*
+secrets/
+
+# 실행 상태와 진단 자료
+*.log
+*.pid
+*.sqlite*
+*.db*
+logs/
+state/
+runs/
+outbox/
+backups/
+snapshots/
+private/
+
+# 로컬 도구와 운영체제 파일
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+node_modules/
